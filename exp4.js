@@ -7,4 +7,3 @@ if (age >= 18) {
 } else {
   alert("Sorry, you are not allowed to drive a car ");
 }
-
